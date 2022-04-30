@@ -10,7 +10,7 @@ I'm a Software Engineering student at ASU in Arizona, United States
 **BIO**
 
 🏢 I'm currently studying at Arizona State University  
-⚙️ I use daily: Java, Python  
+⚙️ Languages I use daily: Java, Python  
 🌱 Learning all about backend Java  
 📫 Reach me: calisirmori@gmail.com  
 
