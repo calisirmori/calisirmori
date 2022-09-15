@@ -10,8 +10,8 @@ I'm a Software Engineering student at ASU in Arizona, United States
 **BIO**
 
 🏢 I'm currently studying at Arizona State University  
-⚙️ Languages I use daily: Java, Python  
-🌱 Learning all about backend Java  
+⚙️ Languages I use daily: MERN Stack  
+🌱 Learning all about Full Stack  
 📫 Reach me: calisirmori@gmail.com  
 
 <!---
