@@ -1,17 +1,16 @@
 
 **Hi there** 👋
 
-I'm a Software Engineering student at ASU in Arizona, United States
+I'm a Software Engineering student at ASU in Arizona, United States. And Full Stack Developer at RGL.
 
 **NOW**
 
-✨ Working on personal projects
+✨ Working on upgrading Recharge Gaming Leauge to a new stack to interact and have better responsiveness with users.
 
 **BIO**
 
 🏢 I'm currently studying at Arizona State University  
 ⚙️ Languages I use daily: MERN Stack  
-🌱 Learning all about Full Stack  
 📫 Reach me: calisirmori@gmail.com  
 
 <!---
