@@ -1,19 +1,22 @@
+### Hi there, I'm Mori Calisir! 👋
 
-**Hi there** 👋
+- 🏫 **Studying:** Software Engineering at Arizona State University
+- 🎓 **Upcoming Studies:** M.Sc. in Computer Science at ASU starting August 2024
+- 💼 **Currently:** Full Stack Developer at Cobre Valley Hospital
+- 🚀 **Previously:** Developed at Recharge Gaming Lounge
+- 📧 **Reach Me:** [calisirmori@gmail.com](mailto:calisirmori@gmail.com)
+- 🌐 **GitHub:** [Your GitHub](https://github.com/yourusername)
 
-I'm a Software Engineering student at ASU in Arizona, United States. And Full Stack Developer at RGL.
+#### About Me
+Dynamic professional with a passion for developing scalable web solutions and interactive user interfaces. I enjoy working on projects that involve front-end and back-end integration and offer challenging problems to solve.
 
-**NOW**
+#### Current Projects
+- **more.tf**: Enhancing game data analytics for Team Fortress 2, serving over 2 million users annually.
+- **canyon.tf**: Developing a full-stack application to boost user interaction during live streams.
 
-✨ Working on upgrading Recharge Gaming Leauge to a new stack to interact and have better responsiveness with users.
+#### Interests
+- 🎮 Competitive gaming
+- 🏀 Watching basketball
+- 🎣 Going fishing
 
-**BIO**
-
-🏢 I'm currently studying at Arizona State University  
-⚙️ Languages I use daily: MERN Stack  
-📫 Reach me: calisirmori@gmail.com  
-
-<!---
-calisirmori/calisirmori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Looking forward to collaborating on innovative projects and learning new technologies!
